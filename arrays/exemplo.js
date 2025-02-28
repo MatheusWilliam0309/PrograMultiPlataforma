@@ -11,7 +11,7 @@ console.log("Quantidade de pessoas menores de idade: "+menorIdade.length); //len
 console.log(menorIdade);
 
 let letras = ['d', 'A', 'c', 'b', 'a'];
-letras.sort(); //ordem crescente
+letras.sort(); //ordem alfabética / crescente
 console.log(letras);
 
 letras.reverse(); //ordem decrescente
